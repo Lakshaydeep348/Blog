@@ -1,0 +1,18 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    margin: 10vh;
+}
+
+ol
+{
+    margin-left: 10px;
+}
+a
+{
+    color: black;
+}
